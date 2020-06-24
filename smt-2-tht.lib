@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Generic_SOT-223
+#
+DEF Generic_SOT-223 U 0 0 Y N 1 F N
+F0 "U" 100 200 50 H V C CNN
+F1 "Generic_SOT-223" 0 -200 50 H V C CNN
+F2 "TO_SOT_Packages_SMD:SOT-223" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -150 150 150 -150 0 1 0 f
+X Pin1 1 -250 100 100 R 50 50 1 1 P
+X Pin2 2 -250 0 100 R 50 50 1 1 P
+X Pin3 3 -250 -100 100 R 50 50 1 1 P
+X Pin4 4 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
